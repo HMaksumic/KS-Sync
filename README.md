@@ -1,4 +1,4 @@
-# KS-Sync
+# Unit4 Business World - Sync
 
 ## How to Use
 
